@@ -1,4 +1,4 @@
-# PortScanner created by black lynx team
+
 # dedicated to didactic purposes
 #Guide:
 # enter the target site (Pls don't mess up lol) example "mytarget.com".
